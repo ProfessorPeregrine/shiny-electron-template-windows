@@ -42,7 +42,7 @@
 1. Install **R**, **Rstudio**.
 2. Install **Node.js**: from <a href = "https://nodejs.org/en/" target = "_blank"> offical page </a>
 3. Install **Electron Forge** using `npm` (`npm` is installed with `Node.js`)
-4. In the **Terminal**, run `sudo npm i -g @electron-forge/cli`, (`sudo` requires password)
+4. In the **Terminal**, run `npm install --save-dev @electron-forge/cli`
 5. Install **Innoextract** from <a href='https://constexpr.org/innoextract/' target ='_blank'>this link</a> (Windows Only) and move it to program files and add Environment variable PATH (See [this](https://stackoverflow.com/questions/53193489/path-variable-in-environmental-variable-accepts-only-one-path)
 
 > [!NOTE]
